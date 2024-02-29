@@ -1,4 +1,14 @@
-Nextjs with supabase boilerplate
+App for creating better daily habits
+
+TechStack:
+
+NextJs
+
+Clerk
+
+Supabase
+
+ShadcnUI
 
 Install dependencies:
 
